@@ -1,6 +1,6 @@
 # gdppc_cppp
 This is the latest version of Gapminder's compilation of GDP per capita from multiple sources.
-See documentaiotn here: www.gapm.io/dgdppc
+See documentation here: www.gapm.io/dgdppc
 
 THIS DATA IS PROVIDED UNDER CC BY LICENSE 4.0
 Which means: Please use it and spread it in any way you want, but remember to mention gwpminder.org!
